@@ -75,7 +75,102 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates Agile ceremonies, removes blockers, and helps the team apply continuous improvement.
+
+### Responsibilities
+- Run standups, retrospectives, and sprint/milestone reviews
+- Foster team learning and incremental improvement
+- Document lessons learned, escalate blockers, coach on Agile
+
+### Goals
+- Enable uninterrupted delivery and team growth
+- Encourage safe feedback and actionable experiments
+
+### Typical Communication
+- Facilitation of meetings
+- Regular feedback with PM, PdM, Developers, QA
+
+### Interactions
+- Partners with PM, PdM for planning and prioritization
+- Works with Stakeholder Rep, Technical Architect, and all team members to resolve blockers and improve team processes
+
+---
+
+## UX Designer
+
+### Role Summary
+Ensures user-focused design, usability validation, and interface clarity.
+
+### Responsibilities
+- Run user interviews, testing, and gather usability insights
+- Create, share, and validate design prototypes
+- Track and document accessibility improvements
+
+### Goals
+- Delight users with intuitive products
+- Make usability a part of the acceptance process
+
+### Typical Communication
+- Demo sessions, feedback meetings, usability reports
+
+### Interactions
+- Partners with Product Manager for vision and requirements
+- Supports QA in validating user experience before releases
+- Works with Developers to implement design specs
+
+---
+
+## Stakeholder Representative
+
+### Role Summary
+Channels feedback, priorities, and sign-offs from stakeholder groups.
+
+### Responsibilities
+- Engage key business/support customers for requirements and feedback
+- Communicate milestone signals and receive acceptance sign-off
+- Help balance competing interests and clarify decision criteria
+
+### Goals
+- Ensure stakeholder voices directly inform the project
+- Reduce ambiguity in milestone acceptance and project success criteria
+
+### Typical Communication
+- Alignment meetings and milestone reviews
+- Feedback summaries and approvals
+
+### Interactions
+- Coordinates with PM, PdM, project sponsor and teams to ensure requirements and sign-offs are tracked
+
+---
+
+## Technical Architect
+
+### Role Summary
+Owns technical solution design, aligns implementation with strategy, and mitigates system risk.
+
+### Responsibilities
+- Review designs, advise on trade-offs, approve architectures
+- Engage on integrations and complex dependencies
+- Guide teams on security, scalability, and maintainability
+
+### Goals
+- Protect long-term reliability and growth of technical assets
+- Ensure technical decisions meet business and team needs
+
+### Typical Communication
+- Architecture reviews, risk registers, and decision logs
+- Technical whiteboarding and design review sessions
+
+### Interactions
+- Works with Developers, PM, PdM, Scrum Master to unblock technical issues
+- Engages with cross-functional teams for complex system decisions
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
+- Roles are referenced in other process docs for handoffs, risk ownership, communication, and retrospective responsibilities.
