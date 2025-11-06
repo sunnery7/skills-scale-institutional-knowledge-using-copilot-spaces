@@ -4,39 +4,41 @@
 Explain how to identify, manage, and communicate risks and dependencies.
 
 ## Risk Register
-Maintain a simple table with:
+Simple table includes:
 - ID
 - Description
 - Impact (High/Med/Low)
 - Likelihood (High/Med/Low)
-- Owner
-- Mitigation plan
+- Owner (PM, Tech Architect, Scrum Master, Stakeholder Rep, etc.)
+- Mitigation
 - Status
 
 ## Risk Lifecycle
-- Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
-- Mitigate: reduced via actions, contingency plans
-- Monitor: review at weekly syncs and update status
+- Identify: during planning and ongoing execution, input from Technical Architect/Scrum Master
+- Assess: estimate impact/likelihood, consulting all personas
+- Mitigate: actions/contingencies, clear role follow-up
+- Monitor: review weekly sync/update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
-- Use a single source of truth (project README or release doc) for status
+- Identify groups/needs (engineering, sales, support)
+- Regular updates (Stakeholder Rep leads)
+- Single source of truth (project README or release doc)
 
 ## Communication Templates
-Weekly Status Template:
+Weekly Status Template (all personas can contribute):
 - Progress this week:
 - Next steps:
 - Risks & blockers:
-- Ask / decisions needed:
+- Decisions needed:
 
-Incident Communication
-- Triage summary
-- Actions being taken
-- Expected timeline
-- Post-incident blameless retrospective scheduled
+Incident Communication:
+- Triage summary (Scrum Master/Tech Architect input)
+- Actions taken
+- Timeline/Next update
+- Post-incident blameless retrospective (Scrum Master facilitates)
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level (Scrum Master/PM) → PM → Product Lead → Sponsor
+- Technical escalation: Tech Architect engages
+- Stakeholder escalation: Stakeholder Rep notified
+- Security incident: notify on-call per runbook
